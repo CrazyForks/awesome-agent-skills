@@ -161,6 +161,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 | cursor-rules-and-prompts | Cursor 规则与提示词集合 | 211 | [GitHub](https://github.com/thehimel/cursor-rules-and-prompts) |
 | Ai-Agent-Skills | ⭐ AI Skills 通用安装器（Homebrew for Skills） | 774 | [GitHub](https://github.com/skillcreatorai/Ai-Agent-Skills) |
 | claude-code-kit | Claude Code 工具包，自动激活 skills | 65 | [GitHub](https://github.com/blencorp/claude-code-kit) |
+| best-skills | 通用高质量 Skills 合集，涵盖论文写作、开发流程、自媒体创作等 | 264 | [GitHub](https://github.com/xstongxue/best-skills) |
 
 ## 开发工具
 

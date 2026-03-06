@@ -103,6 +103,7 @@ Skills work across multiple platforms:
 - [cursor-rules-and-prompts](https://github.com/thehimel/cursor-rules-and-prompts) - Cursor rules and prompts collection.
 - [Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) - Universal AI Skills installer (Homebrew for Skills).
 - [claude-code-kit](https://github.com/blencorp/claude-code-kit) - Claude Code toolkit with auto-activating skills.
+- [best-skills](https://github.com/xstongxue/best-skills) - High-quality Skills collection for paper writing, dev workflow, and content creation.
 
 ## Development Tools
 
