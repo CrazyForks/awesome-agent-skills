@@ -89,6 +89,7 @@ Skills work across multiple platforms:
 - [GitHub Awesome Copilot](https://github.com/github/awesome-copilot) - Official Copilot resources collection.
 - [Agent Skills Index](https://agent-skills.md/) - Community Skills search engine.
 - [Skills Leaderboard](https://skills.sh) - Open Agent Skills ecosystem directory.
+- [Tencent SkillHub](https://skillhub.tencent.com/) - Tencent's Skills community with 13k+ skills, optimized for Chinese users.
 
 ## Skills Collections
 

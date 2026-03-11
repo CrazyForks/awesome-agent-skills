@@ -145,6 +145,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 | github/awesome-copilot | GitHub 官方 Copilot 资源合集 | - | [GitHub](https://github.com/github/awesome-copilot) |
 | Agent Skills 索引 | 社区 Skills 搜索引擎 | - | [agent-skills.md](https://agent-skills.md/) |
 | Skills 排行榜 | 开放 Agent Skills 生态目录 | - | [skills.sh](https://skills.sh) |
+| 腾讯 SkillHub | ⭐ 腾讯 Skills 社区，收录 1.3 万+ 技能，国内镜像加速 | - | [skillhub.tencent.com](https://skillhub.tencent.com/) |
 
 ## Skills 合集
 
