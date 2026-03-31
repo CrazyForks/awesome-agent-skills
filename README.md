@@ -139,10 +139,10 @@ Skills work across multiple platforms:
 - [claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) - Skills factory for batch generation and deployment.
 - [obra/superpowers](https://github.com/obra/superpowers) - Complete dev workflow (Debug/TDD/Code Review/Planning).
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing Skills (SEO/Copywriting/CRO/Ads).
-- [gingiris-launch](https://github.com/Gingiris/gingiris-launch) - 🚀 Product Hunt Launch Playbook — Proven tactics from 30x daily #1 winner. GTM guide for AI products, startups & OSS.
-- [gingiris-opensource](https://github.com/Gingiris/gingiris-opensource) - ⭐ Open Source Marketing Playbook — Get 10k+ GitHub stars. OSS launch strategy from AFFiNE (33k stars).
-- [gingiris-b2b-growth](https://github.com/Gingiris/gingiris-b2b-growth) - 📈 B2B SaaS Growth Playbook — PLG & SLG strategies from PMF to $10M ARR. HeyGen, Deel, Vercel case studies.
-- [gingiris-aso-growth](https://github.com/Gingiris/gingiris-aso-growth) - 📱 ASO & Mobile App Growth Playbook — Complete App Store Optimization guide. Cold start, UGC, TikTok marketing.
+- [gingiris-launch](https://github.com/Gingiris/gingiris-launch) - Product Hunt launch playbook for AI products, startups, and open source GTM.
+- [gingiris-opensource](https://github.com/Gingiris/gingiris-opensource) - Open source marketing playbook focused on GitHub growth and launch strategy.
+- [gingiris-b2b-growth](https://github.com/Gingiris/gingiris-b2b-growth) - B2B SaaS growth playbook covering PLG, SLG, and go-to-market strategy.
+- [gingiris-aso-growth](https://github.com/Gingiris/gingiris-aso-growth) - ASO and mobile app growth playbook for cold start, UGC, and distribution.
 
 ## DevOps
 
