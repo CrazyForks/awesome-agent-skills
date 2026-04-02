@@ -9,8 +9,8 @@
 ### 1. 创建目录结构
 
 ```bash
-mkdir my-awesome-skill
-cd my-awesome-skill
+mkdir my-agent-skill
+cd my-agent-skill
 ```
 
 ### 2. 创建 SKILL.md
@@ -19,12 +19,12 @@ cd my-awesome-skill
 
 ```markdown
 ---
-name: my-awesome-skill
+name: my-agent-skill
 description: A brief description of what this skill does.
 license: MIT
 ---
 
-# My Awesome Skill
+# My Agent Skill
 
 > 简要描述这个 skill 做什么。
 
@@ -223,7 +223,7 @@ templates/
 
 1. **创建 GitHub 仓库**
 2. **添加 README**：说明如何安装和使用
-3. **提交到 awesome-agent-skills**：提 PR 添加到列表
+3. **提交到本项目列表**：提 PR 添加到列表
 
 ### 推荐的 README 结构
 

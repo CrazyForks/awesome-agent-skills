@@ -1,4 +1,4 @@
-# Awesome Agent Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Agent Skills
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Agent Skills" width="100%">
