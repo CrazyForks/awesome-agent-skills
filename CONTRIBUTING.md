@@ -47,6 +47,7 @@
 - [ ] 提供中英文描述
 - [ ] 包含使用示例
 - [ ] 商业产品封装通常需要更高的社区认可度
+- [ ] 第三方托管试用 / Demo 入口需要清晰说明运行方式、数据处理、隐私政策和维护责任；涉及用户代码、diff、日志或凭据的外部服务通常不会直接加入 README
 
 ### 格式规范
 
@@ -168,6 +169,7 @@ Thanks for your interest in contributing to Awesome Agent Skills!
 - [ ] Provide bilingual description (English/Chinese)
 - [ ] Include usage examples
 - [ ] Commercial product wrappers typically require higher community validation
+- [ ] Third-party hosted trials / demos should clearly document runtime behavior, data handling, privacy policy, and maintenance responsibility; external services that process user code, diffs, logs, or credentials are generally not linked directly from the README
 
 ### Format Guidelines
 
