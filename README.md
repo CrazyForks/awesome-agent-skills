@@ -210,10 +210,7 @@ If this project helps you, you can support its maintenance:
 
 Sponsorship does not affect listing decisions. All submissions are reviewed using the same contribution criteria.
 
-<p>
-  <img src="assets/sponsor-wechat.png" alt="WeChat Pay QR code" width="220">
-  <img src="assets/sponsor-alipay.png" alt="Alipay QR code" width="220">
-</p>
+PayPal: [paypal.me/JackyST0](https://paypal.me/JackyST0)
 
 </details>
 
