@@ -200,6 +200,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 | unit-test-generator | 单元测试自动生成 Skill | All | [示例](examples/unit-test-generator/) |
 | api-doc-generator | API 文档生成 Skill | All | [示例](examples/api-doc-generator/) |
 | debug-helper | 代码调试助手 Skill | All | [示例](examples/debug-helper/) |
+| authsome | AI Agent 本地凭据代理，加密本地保管库与基于代理的凭据注入 | All | [GitHub](https://github.com/agentrhq/authsome) |
 
 ## 效率提升
 
