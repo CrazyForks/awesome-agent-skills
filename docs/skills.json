@@ -34,7 +34,7 @@
     "nameZh": "anthropics/skills",
     "desc": "Anthropic 官方 Agent Skills 仓库",
     "descEn": "Official Anthropic Agent Skills repository",
-    "stars": "144.7k",
+    "stars": "150.7k",
     "platform": "all",
     "category": "official",
     "url": "https://github.com/anthropics/skills"
@@ -174,7 +174,7 @@
     "nameZh": "awesome-cursorrules",
     "desc": "最全面的 Cursor Rules 合集",
     "descEn": "The most comprehensive Cursor Rules collection",
-    "stars": "39.8k",
+    "stars": "40.0k",
     "platform": "cursor",
     "category": "collection",
     "url": "https://github.com/PatrickJS/awesome-cursorrules"
@@ -214,7 +214,7 @@
     "nameZh": "awesome-claude-skills",
     "desc": "Composio 维护的 Claude Skills 合集",
     "descEn": "Claude Skills collection by Composio",
-    "stars": "62.7k",
+    "stars": "64.6k",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/ComposioHQ/awesome-claude-skills"
@@ -224,7 +224,7 @@
     "nameZh": "awesome-claude-code",
     "desc": "Claude Code skills/hooks/插件合集",
     "descEn": "Claude Code skills/hooks/plugins collection",
-    "stars": "45.3k",
+    "stars": "46.5k",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/hesreallyhim/awesome-claude-code"
@@ -234,7 +234,7 @@
     "nameZh": "openskills",
     "desc": "通用 Skills 加载器（npm 安装）",
     "descEn": "Universal Skills loader (npm install)",
-    "stars": "10.3k",
+    "stars": "10.4k",
     "platform": "all",
     "category": "collection",
     "url": "https://github.com/numman-ali/openskills"
@@ -254,7 +254,7 @@
     "nameZh": "claude-skills",
     "desc": "Simon Willison 的 Claude Skills 文档",
     "descEn": "Claude Skills documentation by Simon Willison",
-    "stars": "924",
+    "stars": "925",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/simonw/claude-skills"
@@ -264,7 +264,7 @@
     "nameZh": "claude-skills-collection",
     "desc": "官方与社区 Skills 精选集合",
     "descEn": "Curated official and community Skills",
-    "stars": "670",
+    "stars": "716",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/abubakarsiddik31/claude-skills-collection"
@@ -274,7 +274,7 @@
     "nameZh": "cursor-rules-and-prompts",
     "desc": "Cursor 规则与提示词集合",
     "descEn": "Cursor rules and prompts collection",
-    "stars": "237",
+    "stars": "241",
     "platform": "cursor",
     "category": "collection",
     "url": "https://github.com/thehimel/cursor-rules-and-prompts"
@@ -294,7 +294,7 @@
     "nameZh": "claude-code-kit",
     "desc": "Claude Code 工具包，自动激活 skills",
     "descEn": "Claude Code toolkit with auto-activating skills",
-    "stars": "91",
+    "stars": "96",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/blencorp/claude-code-kit"
@@ -558,6 +558,16 @@
     "platform": "all",
     "category": "devtools",
     "url": "https://github.com/agentrhq/authsome"
+  },
+  {
+    "name": "Sverklo",
+    "nameZh": "Sverklo",
+    "desc": "本地优先的仓库记忆 MCP，支持证明回执、符号引用、影响分析与差异审查",
+    "descEn": "Local-first repo-memory MCP for coding agents: proof receipts, symbol refs, impact, and diff review",
+    "stars": "-",
+    "platform": "all",
+    "category": "devtools",
+    "url": "https://github.com/sverklo/sverklo"
   },
   {
     "name": "claude-code-workflows",
