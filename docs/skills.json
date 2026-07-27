@@ -34,7 +34,7 @@
     "nameZh": "anthropics/skills",
     "desc": "Anthropic 官方 Agent Skills 仓库",
     "descEn": "Official Anthropic Agent Skills repository",
-    "stars": "153.5k",
+    "stars": "164.4k",
     "platform": "all",
     "category": "official",
     "url": "https://github.com/anthropics/skills"
@@ -174,7 +174,7 @@
     "nameZh": "awesome-cursorrules",
     "desc": "最全面的 Cursor Rules 合集",
     "descEn": "The most comprehensive Cursor Rules collection",
-    "stars": "40.1k",
+    "stars": "40.4k",
     "platform": "cursor",
     "category": "collection",
     "url": "https://github.com/PatrickJS/awesome-cursorrules"
@@ -214,7 +214,7 @@
     "nameZh": "awesome-claude-skills",
     "desc": "Composio 维护的 Claude Skills 合集",
     "descEn": "Claude Skills collection by Composio",
-    "stars": "65.4k",
+    "stars": "70.9k",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/ComposioHQ/awesome-claude-skills"
@@ -224,7 +224,7 @@
     "nameZh": "awesome-claude-code",
     "desc": "Claude Code skills/hooks/插件合集",
     "descEn": "Claude Code skills/hooks/plugins collection",
-    "stars": "47.0k",
+    "stars": "51.0k",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/hesreallyhim/awesome-claude-code"
@@ -234,7 +234,7 @@
     "nameZh": "openskills",
     "desc": "通用 Skills 加载器（npm 安装）",
     "descEn": "Universal Skills loader (npm install)",
-    "stars": "10.5k",
+    "stars": "10.6k",
     "platform": "all",
     "category": "collection",
     "url": "https://github.com/numman-ali/openskills"
@@ -254,7 +254,7 @@
     "nameZh": "claude-skills",
     "desc": "Simon Willison 的 Claude Skills 文档",
     "descEn": "Claude Skills documentation by Simon Willison",
-    "stars": "925",
+    "stars": "927",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/simonw/claude-skills"
@@ -264,7 +264,7 @@
     "nameZh": "claude-skills-collection",
     "desc": "官方与社区 Skills 精选集合",
     "descEn": "Curated official and community Skills",
-    "stars": "764",
+    "stars": "872",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/abubakarsiddik31/claude-skills-collection"
@@ -274,7 +274,7 @@
     "nameZh": "cursor-rules-and-prompts",
     "desc": "Cursor 规则与提示词集合",
     "descEn": "Cursor rules and prompts collection",
-    "stars": "241",
+    "stars": "245",
     "platform": "cursor",
     "category": "collection",
     "url": "https://github.com/thehimel/cursor-rules-and-prompts"
@@ -294,7 +294,7 @@
     "nameZh": "claude-code-kit",
     "desc": "Claude Code 工具包，自动激活 skills",
     "descEn": "Claude Code toolkit with auto-activating skills",
-    "stars": "96",
+    "stars": "98",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/blencorp/claude-code-kit"
@@ -398,6 +398,16 @@
     "platform": "copilot",
     "category": "devtools",
     "url": "https://github.com/bkircher/skills"
+  },
+  {
+    "name": "markstream-install",
+    "nameZh": "markstream-install",
+    "desc": "为 Vue、React、Svelte、Angular 和 Vue 2 项目安装流式 Markdown 渲染器",
+    "descEn": "Install streaming Markdown renderers across Vue, React, Svelte, Angular, and Vue 2 projects",
+    "stars": "-",
+    "platform": "all",
+    "category": "devtools",
+    "url": "https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-install"
   },
   {
     "name": "skill-codex",
